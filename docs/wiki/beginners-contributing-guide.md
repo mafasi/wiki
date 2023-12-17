@@ -1,4 +1,4 @@
-# Beginners Contributing Guide
+# Beginners Contributing Guide Haha
 
 See the [Contribution Guidelines](https://wiki.selfhosted.show/wiki/contributing/) for information and objectives of the wiki.
 
