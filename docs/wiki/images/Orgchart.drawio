@@ -1,0 +1,38 @@
+<mxfile host="65bd71144e">
+    <diagram id="4XTnY8WNP0xS7e4OFuIw" name="Page-1">
+        <mxGraphModel dx="810" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+                    <mxGeometry x="150" y="140" width="280" height="500" as="geometry">
+                        <mxRectangle x="150" y="140" width="90" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="cjvwTrvZkHCprrhtBDmI-1" source="cjvwTrvZkHCprrhtBDmI-4" target="cjvwTrvZkHCprrhtBDmI-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="cjvwTrvZkHCprrhtBDmI-1" source="cjvwTrvZkHCprrhtBDmI-4" target="cjvwTrvZkHCprrhtBDmI-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;u&gt;Abteilung &lt;/u&gt;&lt;br&gt;Maritime Graphics&lt;br&gt;&lt;i&gt;Matthias Vahl&lt;/i&gt;" treeRoot="1" id="cjvwTrvZkHCprrhtBDmI-4">
+                    <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="cjvwTrvZkHCprrhtBDmI-1" vertex="1">
+                        <mxGeometry x="80" y="40" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-5" value="&lt;u&gt;Gruppe&lt;/u&gt;&lt;br&gt;Interaktive Visualisierung&lt;br&gt;&lt;i&gt;Kristine Bauer&lt;/i&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="cjvwTrvZkHCprrhtBDmI-1" vertex="1">
+                    <mxGeometry x="20" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-6" value="&lt;u&gt;Gruppe&lt;/u&gt;&lt;br&gt;Computer Vision&lt;br&gt;&lt;i&gt;Matthias Vahl&lt;/i&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="cjvwTrvZkHCprrhtBDmI-1" vertex="1">
+                    <mxGeometry x="160" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Matthias Vahl&lt;br&gt;&lt;/span&gt;Tom Krause&lt;br&gt;Tim Dolereit&lt;br&gt;Karl&lt;br&gt;Hjhjhj&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" parent="cjvwTrvZkHCprrhtBDmI-1" vertex="1">
+                    <mxGeometry x="160" y="220" width="100" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="cjvwTrvZkHCprrhtBDmI-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Matthias Vahl&lt;br&gt;&lt;/span&gt;Tom Krause&lt;br&gt;Tim Dolereit&lt;br&gt;Karl&lt;br&gt;Hjhjhj&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" parent="cjvwTrvZkHCprrhtBDmI-1" vertex="1">
+                    <mxGeometry x="20" y="220" width="100" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

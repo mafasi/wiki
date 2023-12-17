@@ -1,4 +1,99 @@
-# Auto Deploy
+# Start
+
+## Abschnitt
+
+- eins
+- zwei
+- drei
+- 
+![Weihnacht](image.png)
+
+![Orgchart](images/Orgchart.svg)
+
+[MAG CHange](MAG_change.md)
+
+[Abschnitt](#abschnitt)
+
+:::mermaid
+sequenceDiagram
+    Alice ->> Bob: Hello Bob, how are you?
+    Bob-->>John: How about you John?
+    Bob--x Alice: I am good thanks!
+    Bob-x John: I am good thanks!
+    Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+    Bob-->Alice: Checking with John...
+    Alice->John: Yes... John, how are you?
+:::
+
+
+
+
+:::mermaid
+    mindmap
+    [Matthias Vahl<Br>Abteilungsleiter]
+        (Matthias Vahl<Br>Gruppensleiter)
+            (Tom Krause)
+            (Tim Dolereit)
+            (Tom Krause)
+            (Tim Dolereit)
+            (Tom Krause)
+            (Tim Dolereit)
+            (Tom Krause)
+            (Tim Dolereit)
+        (Kristine Bauer)
+            (Felix Schmidt)
+            (Kai Gerrit XXX)
+            (Felix Schmidt)
+            (Kai Gerrit XXX)
+            (Felix Schmidt)
+            (Kai Gerrit XXX)
+            (Felix Schmidt)
+            (Kai Gerrit XXX)
+
+:::
+
+
+:::mermaid
+    gantt
+    section Section
+    Completed :done,    des1, 2014-01-06,2014-01-08
+    Active        :active,  des2, 2014-01-07, 3d
+    Parallel 1   :         des3, after des1, 1d
+    Parallel 2   :         des4, after des1, 1d
+    Parallel 3   :         des5, after des3, 1d
+    Parallel 4   :         des6, after des4, 1d
+:::
+
+    Matthias_Vahl-->B;
+
+:::mermaid
+    pie title Projektmix
+        "Öffentlich" : 4
+        "Eigen" : 5
+        "Industrie" : 7
+:::
+
+:::mermaid
+quadrantChart
+    title Reach and engagement of campaigns
+    x-axis Low Reach --> High Reach
+    y-axis Low Engagement --> High Engagement
+    quadrant-1 We should expand
+    quadrant-2 Need to promote
+    quadrant-3 Re-evaluate
+    quadrant-4 May be improved
+    Campaign A: [0.3, 0.6]
+    Campaign B: [0.45, 0.23]
+    Campaign C: [0.57, 0.69]
+    Campaign D: [0.78, 0.34]
+    Campaign E: [0.40, 0.34]
+    Campaign F: [0.35, 0.78]
+:::
+
+
+
+# Auto Deploy is a wish
 
 To streamline the merging and deployment process, this wiki automatically deploys upon merge to `master`.
 
